@@ -1,0 +1,215 @@
+[{
+  "_id": {
+    "$oid": "683ba533fc40dc47e34cc2d1"
+  },
+  "courseId": "68268dd09ea10784289ac1ca",
+  "courseTitle": "UIUX with Figma and Adobe XD",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T00:56:19.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683ba6c6fc40dc47e34cc2d3"
+  },
+  "courseId": "68268dd09ea10784289ac1ca",
+  "courseTitle": "UIUX with Figma and Adobe XD",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T01:03:02.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683bab65fc40dc47e34cc2d5"
+  },
+  "courseId": "12345",
+  "courseTitle": "Example Course",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T01:22:45.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683bd6c6fc40dc47e34cc2d9"
+  },
+  "courseId": "68268dd09ea10784289ac1ca",
+  "courseTitle": "UIUX with Figma and Adobe XD",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T04:27:50.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683bdfd5fc40dc47e34cc2de"
+  },
+  "courseId": "683b538d9ea10784289ac22d",
+  "courseTitle": "Digital Marketer Career Accelerator",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T05:06:29.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683be451fc40dc47e34cc2e5"
+  },
+  "courseId": "683b538d9ea10784289ac22d",
+  "courseTitle": "Digital Marketer Career Accelerator",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T05:25:37.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683beb40fc40dc47e34cc2ef"
+  },
+  "courseId": "6826910a9ea10784289ac1d2",
+  "courseTitle": "Advanced WordPress & Elementor | Build A Membership Website",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T05:55:12.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683beb85fc40dc47e34cc2f1"
+  },
+  "courseId": "AdminEnrolments",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T05:56:21.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683bf057fc40dc47e34cc2f5"
+  },
+  "courseId": "68268dd09ea10784289ac1ca",
+  "courseTitle": "UIUX with Figma and Adobe XD",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T06:16:55.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683bfb18e11351f1dde80d0f"
+  },
+  "courseId": "68268dd09ea10784289ac1ca",
+  "courseTitle": "UIUX with Figma and Adobe XD",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T07:02:48.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683bfec3172be96dc04d2d2a"
+  },
+  "courseId": "68268dd09ea10784289ac1ca",
+  "courseTitle": "UIUX with Figma and Adobe XD",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T07:18:27.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683c0b62172be96dc04d2d32"
+  },
+  "courseId": "6824965f7c99ff66b95980f9",
+  "courseTitle": "100 Days of Code: The Complete Python Pro Bootcamp",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T08:12:18.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683c0e03172be96dc04d2d3b"
+  },
+  "courseId": "6824965f7c99ff66b95980f9",
+  "courseTitle": "100 Days of Code: The Complete Python Pro Bootcamp",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T08:23:31.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683c0eaa172be96dc04d2d42"
+  },
+  "courseId": "6826910a9ea10784289ac1d2",
+  "courseTitle": "Advanced WordPress & Elementor | Build A Membership Website",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T08:26:18.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683c2dc30453856169dd75b4"
+  },
+  "courseId": "68268dd09ea10784289ac1ca",
+  "courseTitle": "UIUX with Figma and Adobe XD",
+  "userEmail": "student2@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T10:38:59.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683c2f890453856169dd75d0"
+  },
+  "courseId": "68268dd09ea10784289ac1ca",
+  "courseTitle": "UIUX with Figma and Adobe XD",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T10:46:33.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683c2fbe0453856169dd75d7"
+  },
+  "courseId": "6826910a9ea10784289ac1d2",
+  "courseTitle": "Advanced WordPress & Elementor | Build A Membership Website",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T10:47:26.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683c31210453856169dd75e5"
+  },
+  "courseId": "6839c0209ea10784289ac21a",
+  "courseTitle": "AI for Business Leaders",
+  "userEmail": "user@example.com",
+  "enrolledAt": {
+    "$date": "2025-06-01T10:53:21.597Z"
+  },
+  "__v": 0
+}]

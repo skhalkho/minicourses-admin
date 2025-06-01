@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "682492f47c99ff66b95980dc"
+  },
+  "title": "100 Days of Code: The Complete Python Pro BootCamp",
+  "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps",
+  "instructor": "Dr. Angela Yu",
+  "duration": 60,
+  "category": "Web Development,Python,Proogamming Languages",
+  "imageUrl": "/images/Dr_Angela_Yu.png",
+  "reviews": [
+    {
+      "name": "Yoshi",
+      "body": "Great course"
+    },
+    {
+      "name": "Mario",
+      "body": "Excellent course"
+    }
+  ],
+  "details_id": "6824965f7c99ff66b95980f9"
+},
+{
+  "_id": {
+    "$oid": "68268c379ea10784289ac1c7"
+  },
+  "title": "UIUX with Figma and Adobe XD",
+  "description": "Learn User Interface and User Experience UI UX with Adobe XD and Figma",
+  "instructor": "Marcus Menti, Zechariah Tech",
+  "duration": 50,
+  "category": "Web Development,Figma,Design tools, Design",
+  "imageUrl": "/images/Figma.png",
+  "reviews": [
+    {
+      "name": "Manshi",
+      "body": "Great Design Course"
+    },
+    {
+      "name": "Anabell",
+      "body": "Excellent Figma Course"
+    }
+  ],
+  "details_id": "68268dd09ea10784289ac1ca"
+},
+{
+  "_id": {
+    "$oid": "682692e29ea10784289ac1d7"
+  },
+  "title": "Advanced WordPress & Elementor | Build A Membership Website",
+  "description": "Learn to build a premium membership website and sell paid subscriptions in this advanced WordPress & Elementor course",
+  "instructor": "Ricky Wallace",
+  "duration": 15,
+  "category": "WordPress, Web Development,Development",
+  "imageUrl": "/images/Advanced_WPE.png",
+  "reviews": [
+    {
+      "name": "Tom",
+      "body": "Beautifully, interactive must have course"
+    },
+    {
+      "name": "Brendon",
+      "body": "Excellent WordPress and Elementor Course"
+    }
+  ],
+  "details_id": "6826910a9ea10784289ac1d2"
+},
+{
+  "_id": {
+    "$oid": "6839bab79ea10784289ac217"
+  },
+  "title": "AI for Business Leaders",
+  "description": "Unlock the power of AI in your work & business—no technical background required.",
+  "instructor": "Helen Lee Kupp",
+  "duration": 50,
+  "category": "Project Management, Management, Business",
+  "imageUrl": "/images/ai_leader.png",
+  "reviews": [
+    {
+      "name": "Brett",
+      "body": "Beautifully organised AI adoption"
+    },
+    {
+      "name": "James",
+      "body": "Spot on where AU adds real value"
+    }
+  ],
+  "details_id": "6839c0209ea10784289ac21a"
+},
+{
+  "_id": {
+    "$oid": "6839c9b69ea10784289ac227"
+  },
+  "title": "Digital Marketer Career Accelerator",
+  "description": "Your career in digital marketing starts here. Fast-track learning and interview prep. Grow skills at your own pace. Unlock your earnings potential.",
+  "instructor": "Emma Smith",
+  "duration": 35,
+  "category": "Marketing, Sales, Digital Marketing, AI",
+  "imageUrl": "/images/digital.png",
+  "reviews": [
+    {
+      "name": "Sam",
+      "body": "Great contents for bigginners"
+    },
+    {
+      "name": "Rakesh",
+      "body": "Excellent AI generated digital marketing"
+    }
+  ],
+  "details_id": "683b538d9ea10784289ac22d"
+},
+{
+  "_id": {
+    "$oid": "683b57169ea10784289ac233"
+  },
+  "title": "Learn and Understand D3.js for Data Visualization",
+  "description": "Dive deep under the hood of D3.js. Learn core concepts and build stunning data visualizations using D3 version 7",
+  "instructor": "Luis Ramirez Jr",
+  "duration": 35,
+  "category": "Data Visualization, D3.js, Web Development, Development",
+  "imageUrl": "/images/visual.png",
+  "reviews": [
+    {
+      "name": "Scott C",
+      "body": "Its a fantastic introduction to D3"
+    },
+    {
+      "name": "Dianna",
+      "body": "Excellent, inituitive and insighful course on D3 Visualization"
+    }
+  ],
+  "details_id": "683b58899ea10784289ac237"
+}]

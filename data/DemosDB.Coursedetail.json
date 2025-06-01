@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6824965f7c99ff66b95980f9"
+  },
+  "title": "100 Days of Code: The Complete Python Pro Bootcamp",
+  "description": "What you'll learn You will master the Python programming language by building unique projects over hundred days. You will learn automation, game, app and web development, data science and machine learning all using Python. You will be able to program in Python professionally",
+  "imageUrl": "/images/Dr_Angela_Yu.png",
+  "category": "Web description, Programming",
+  "duration": 60,
+  "module": [
+    "Day 1 - Beginner: Working with Variables in Python to Manage Data ",
+    "Day 2 - Beginner: Understanding Data Types and How to Manipulate Strings",
+    "Day 10 - Beginner: Functions and Outputs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68268dd09ea10784289ac1ca"
+  },
+  "title": "UIUX with Figma and Adobe XD",
+  "description": "Are you ready to embark on a journey to master the art of designing beautiful, user-friendly interfaces and captivating user experiences? Look no further! In this course, we'll take you from a beginner to a proficient UI/UX designer, equipping you with the essential skills and techniques to create stunning designs for web and mobile applications.",
+  "imageUrl": "/images/Figma.png",
+  "category": "Figma, Web design, Adobe XD",
+  "duration": 60,
+  "module": [
+    "Topic 1 - Introduction to Figma",
+    "Topic 2 - Figma Interface and Workplace",
+    "Topic 3 - Frames, Pages, Tools in Figma"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826910a9ea10784289ac1d2"
+  },
+  "title": "Advanced WordPress & Elementor | Build A Membership Website",
+  "description": "Purchase my recommended Hosting and get Elementor Pro Advanced for FREE for one year, along with other premium plugins like Essential Addons Pro & Templately Pro Master your craft as a wordpress developer with visually stunning designs that makes selling your services as developer crazy easy. Learn to build websites like the professionals where we will build our website 'locally' before migrating our website onto a server/hosting account Elevate your creative flair with smooth element animations, transitions and visual, on-page effects that will 'wow' any visitor, client or customer Learn how to introduce a paywall to your websites and create a membership site that requires a subscription or on-time fee Learn how we can 'hide' specific pages, or even specific sections on a page, from visitors that do now have the membership level to view the content",
+  "imageUrl": "/images/Advanced_WPE.png",
+  "category": "WordPress, Web Development,Development",
+  "duration": 15,
+  "module": [
+    "Topic 1 - Introduction to wordpress and Elementor",
+    "Topic 2 - Setting up, Menu, Pages, Responsiveness, Functionality",
+    "Topic 3 - Adding our membership, paid membership, migrating to live Domain"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6839c0209ea10784289ac21a"
+  },
+  "title": "AI for Business Leaders",
+  "description": "AI isn’t optional anymore—it’s essential. And if you’re a business leader looking to drive innovation, boost productivity, and stay competitive, this course is your starting point. AI for Business Leaders is a hands-on, practical course made for real business skills. Led by Helen Lee Kupp, co-founder of Women Defining AI and former strategy leader at Slack, this course will guide you through how to unlock the power of AI in your businesst",
+  "imageUrl": "/images/ai_leader.png",
+  "category": "Project Management, Management, Business",
+  "duration": 15,
+  "module": [
+    "Topic 1 - Get started with AI",
+    "Topic 2 - Understand Current LLM Capabilities",
+    "Topic 3 - Get Hands-On and Build and AI Assistant"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b538d9ea10784289ac22d"
+  },
+  "title": "Digital Marketer Career Accelerator",
+  "description": "Learn Digital:Marketing from the UK's Award Winning Digital Marketing Agency Owner. How to carry out market research along with the 3 question survey that will position you for success. How to build a website from scratch (without any coding skills). How to write effective sales copy & grow your business & career. SEO - How to get any website onto page 1 of Google organically and generates tons of free traffic. Create, Develop and Optimize Your Own Profitable Google Ads Campaigns. Learn how to grow your very own email list and create revenue driving email marketing campaigns. Master Facebook Ads and connect with new audiences and lower your ad costs. Become a Twitter marketing pro, learn how to set up and create profitable twitter ad campaigns from scratch. Learn how to use effective cold email strategies to get your offer Infront of key decision makers.",
+  "imageUrl": "/images/digital.png",
+  "category": "Digital Marketing, Growth Hacking, Business, Marketing",
+  "duration": 65,
+  "module": [
+    "Topic 1 - What to expect from this course",
+    "Topic 2 - Market Research - Understand Who You're Targeting",
+    "Topic 3 - website Creation - How to Make Your Own website"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b58899ea10784289ac237"
+  },
+  "title": "Learn and Understand D3.js for Data Visualization",
+  "description": "Hello! Welcome to the D3.js development course. This is the most comprehensive and effective course on D3 around. This is the only course you'll ever need to learn D3. The goal of this course is to not just teach you D3 (v7.x), but help you understand D3. D3 is a JavaScript library that allows you to build data visualizations easily. The library is absolutely massive and you can create any kind of data visualization you can imagine.  With such a massive library, it can be difficult to grasp a lot of the concepts.",
+  "imageUrl": "/images/visual.png",
+  "category": "Data Visualization, D3.js, Web development, development",
+  "duration": 25,
+  "module": [
+    "Topic 1 - Overview of D3",
+    "Topic 2 - Understanding SVG",
+    "Topic 3 - Fundamentals and scales to draw a Scatterplot"
+  ]
+}]
