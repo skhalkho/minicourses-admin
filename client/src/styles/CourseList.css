@@ -1,0 +1,164 @@
+/* CourseList.css */
+
+
+.course-list-container {
+  display: grid;
+  
+  justify-content: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+
+}
+
+.item-1{
+  grid-row:auto;
+  grid-column:auto;
+}
+
+.hero-banner{
+  background-image: url("") center/cover no-repeat;
+  color: white;
+  height: 20%;
+  padding: 1rem 1rem;
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  background-size: cover;
+  text-align: center;
+}
+
+.hero-banner h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero-banner button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  background-color: #ff6600;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.courses-grid {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 1rem;
+  place-content: space-evenly;
+  justify-content: center;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+
+ 
+}
+
+
+.courses-grid > div {
+  background-color: #ffffff;
+  width: 300px;
+  margin: 10px;
+  text-align: left;
+  line-height: 22px;
+  font-size: 15px;
+}
+
+
+.course-card {
+  flex: 0 1 cal(33.33% -2rem);
+  width: 290px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  text-align: left;
+  transition: transform 0.3s ease-in-out;
+  box-sizing: border-box;
+}
+
+.course-card:hover {
+  transform: translateY(-10px);
+}
+
+.course-card img {
+  max-width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.course-card h2 {
+  font-size: 1.2rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.course-card button {
+  background-color: #0077cc;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.button {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.h1{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 200;
+  font-size: 2.5em;
+  color: #1625a9 ;
+}
+
+.hero-image {
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)), url("../assets/banner.png");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+@media (max-width: 1024px) {
+  .course-card {
+    flex: 0 1 calc(50% - 1rem); /* 2 per row */
+  }
+}
+
+@media (max-width: 600px) {
+  .course-card {
+    flex: 0 1 100%; /* 1 per row */
+  }
+}
+.go-top-button {
+  margin: 2rem auto;
+  display: block;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #007BFF;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.go-top-button:hover {
+  background-color: #0056b3;
+}
